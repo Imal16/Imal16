@@ -4,11 +4,14 @@
 
 - 🌱 I’m currently learning AWS and then hopefully JavaScript, TypeScript, and React.JS
 
-- :books: on my Book List: Zero to One, Inspired, One up on WallStreet, Beating the Street, Hooked, Principles: Life & Work, Fear and Trembling/ The Sickness Unto Death, Steve Jobs
+- :books: on my Book List: 
+  - Tech & Product :computer::   Zero to One, Inspired, Hooked, Steve Jobs
+  - Finance & Business :chart_with_upwards_trend::  One up on WallStreet, Beating the Street, Principles: Life & Work 
+  - Philosophy 💭:  Fear and Trembling, The Sickness Unto Death
 
 - :notes: Always listenting to music
 
-- :rocket: Want to build a fast distributed web app with microservices
+- :rocket: I want to help build Great Products!
 
 
 <!---
